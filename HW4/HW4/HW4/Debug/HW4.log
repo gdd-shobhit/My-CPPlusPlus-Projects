@@ -1,0 +1,14 @@
+﻿  HW4.cpp
+F:\RIT Assignments\Year 2 Sem 2\2195-igme209-01-shobhitdhamania\HW4\HW4\OgStack.h(109,22): warning C4553: '==': result of expression not used; did you intend '='?
+F:\RIT Assignments\Year 2 Sem 2\2195-igme209-01-shobhitdhamania\HW4\HW4\OgStack.h(102): message : while compiling class template member function 'T OgStack<T>::Pop(void)'
+          with
+          [
+              T=int
+          ]
+F:\RIT Assignments\Year 2 Sem 2\2195-igme209-01-shobhitdhamania\HW4\HW4\HW4.cpp(36): message : see reference to function template instantiation 'T OgStack<T>::Pop(void)' being compiled
+          with
+          [
+              T=int
+          ]
+F:\RIT Assignments\Year 2 Sem 2\2195-igme209-01-shobhitdhamania\HW4\HW4\HW4.cpp(28): message : see reference to class template instantiation 'OgStack<int>' being compiled
+  HW4.vcxproj -> F:\RIT Assignments\Year 2 Sem 2\2195-igme209-01-shobhitdhamania\HW4\Debug\HW4.exe
