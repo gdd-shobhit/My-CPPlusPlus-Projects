@@ -7,7 +7,11 @@ My all C++ algorithm projects in one Repo. Some of the projects have OpenGL Shad
 
 An Awesome project directly relates **Collision**, **Optimized Rendering** and **Displaying LOD at the right moment**.
 
-Through Octree one can optimize rendering easily as we can tell the camera to render a particular part when it collides with a 'node' in the Octree. This is how LODs can be put in place and taken out. Engine optimization can also be a big part of Octree.
+Through Octree one can optimize rendering easily as we can tell the camera to render a particular part when it collides with a 'node' in the Octree. This is how LODs can be put in place and taken out. This will result in big Engine Optimization.
+
+## Project 5 - SAT (Separation Axis Theorem: Implementation on collision detection)
+
+It detects collision in all **15** plane collision cases rather than normal **6**.
 
 # Algorithm based C++ Projects
 
@@ -22,6 +26,8 @@ A project on programming the movement of camera which can be used in an Engine. 
 
 It can go - Vertical, Sideways, Forward and Free motion (no-clip for games) when middle mouse/ right mouse is clicked.
 
+## Project 4 and 6 (Programming PriorityQueue and Stack from scratch using C++)
 
+It includes smartly using pointers and Data structures to implement PriorityQueue and Stack
 
 
