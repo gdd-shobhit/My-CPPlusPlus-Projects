@@ -1,17 +1,18 @@
-# My-CPPlusPlus-Projects
+# My C++ Projects
 My all C++ algorithm projects in one Repo. Some of the projects have OpenGL Shader code which I had to read and understand where to put my code to successfully implement the projects.
 
 # Engine Related Projects
 
 ## Project 3 - Octree (Directly relates to Engine Optimization)
 
-An Awesome project directly relates **Collision**, **Optimized Rendering** and **Displaying LOD at the right moment**.
+An Awesome project which directly relates **Collision**, **Optimized Rendering** and **Displaying LOD at the right moment**.
 
-Through Octree one can optimize rendering easily as we can tell the camera to render a particular part when it collides with a 'node' in the Octree. This is how LODs can be put in place and taken out. This will result in big Engine Optimization.
+Through Octree one can optimize rendering easily as we can tell the camera to render a particular part when it collides with a 'node' or is within a 'node' in the Octree. This is how LODs can be put in place and taken out. This will result in big Engine Optimization.
 
 ## Project 5 - SAT (Separation Axis Theorem: Implementation on collision detection)
 
 It detects collision in all **15** plane collision cases rather than normal **6**.
+Used in Game Engines/ Architectures to detect collision of 3D objects as it.
 
 # Algorithm and 3D visualization C++ Projects
 
